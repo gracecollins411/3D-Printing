@@ -4,7 +4,7 @@
 <h3>3D printing is a new way to create innovative and creative products right in your own home.<h3>
   
 <header>How to Find<header>
-<p>First you need to find a reliable and affordable 3D printer. I like the website Creality 3D and the Ender 3 Pro is a good deal.<p>
+First you need to find a reliable and affordable 3D printer. I like the website Creality 3D and the Ender 3 Pro is a good deal.
 <p>Link here: https://www.creality3dofficial.com/products/official-creality-ender-3-3d-printer<p>
 
 <header>How to Use<header>
